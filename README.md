@@ -1,85 +1,71 @@
-# Haneen Mohammed - Software Engineer
+# Hi 👋, I'm Haneen Mohammed
+
+### 🚀 Software Engineer | Java Backend Developer
+
+<div style="background: linear-gradient(45deg, #f3ec78, #af4261); padding: 10px; border-radius: 8px;">
+  <p style="font-size: 20px; color: white; text-align: center;">
+    🌟 Welcome to my GitHub profile! 🌟
+  </p>
+</div>
+
+---
+
+### 💬 **Connect with me:**
+
+<p align="left">
+  <a href="https://linkedin.com/in/haneenmohamed" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Haneen%20Mohammed-blue?style=flat-round&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 50%;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Ho0nn" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-Ho0nn-black?style=flat-round&logo=github&logoColor=white" alt="GitHub" style="border-radius: 50%;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:haneen.m.elfeky@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Email-haneen.m.elfeky@gmail.com-red?style=flat-round&logo=gmail&logoColor=white" alt="Email" style="border-radius: 50%;"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ **Languages and Tools:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-round&logo=java&logoColor=white" alt="Java" style="border-radius: 50%;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-round&logo=spring&logoColor=white" alt="Spring Boot" style="border-radius: 50%;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-round&logo=hibernate&logoColor=white" alt="Hibernate" style="border-radius: 50%;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-round&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 50%;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-round&logo=mongodb&logoColor=white" alt="MongoDB" style="border-radius: 50%;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-round&logo=git&logoColor=white" alt="Git" style="border-radius: 50%;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-round&logo=postman&logoColor=white" alt="Postman" style="border-radius: 50%;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-round&logo=html5&logoColor=white" alt="HTML5" style="border-radius: 50%;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-round&logo=css3&logoColor=white" alt="CSS3" style="border-radius: 50%;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 50%;"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-round&logo=python&logoColor=white" alt="Python" style="border-radius: 50%;"/>
+</p>
+
+---
+
+### ⚡ **Stats:**
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-profile-image.gif" alt="Haneen Mohammed" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ho0nn&show_icons=true&theme=radical" alt="Haneen's GitHub stats"/>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/haneenmohamed">
-    <img src="https://img.shields.io/badge/LinkedIn-Haneen_Mohammed-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+---
+
+### 🧩 **Practice Platforms:**
+
+<p align="left">
+  <a href="https://codeforces.com/profile/your-profile" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Codeforces-003C71?style=flat-round&logo=codeforces&logoColor=white" alt="Codeforces" style="border-radius: 50%;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/your-username" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-round&logo=leetcode&logoColor=black" alt="LeetCode" style="border-radius: 50%;"/>
   </a>
-  <a href="https://github.com/Ho0nn">
-    <img src="https://img.shields.io/badge/GitHub-Ho0nn-black?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
-  </a>
-  <a href="mailto:haneen.m.elfeky@gmail.com">
-    <img src="https://img.shields.io/badge/Email-haneen.m.elfeky@gmail.com-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
-  </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
-I am a passionate **Software Engineer** specializing in backend development with **Java** and **Spring Boot**. I have strong experience in Object-Oriented Programming, design patterns, and database management. I enjoy solving complex problems and am highly skilled in **competitive programming**.
+### ✨ **Special Thanks:**
 
----
-
-## 🛠️ Languages & Technologies
-
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
-</p>
-
-### Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=MySQL&logoColor=white&style=for-the-badge" alt="SQL">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge" alt="Hibernate">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
-</p>
-
----
-
-## 💻 Notable Projects
-### 1. 📚 **Book Management System**
-A Spring Boot application that manages authors and books, implementing advanced search, validation, and exception handling. It features comprehensive CRUD operations, auditing, and custom error handling.
-
-**Technologies**: Spring Boot, JPA, Hibernate, Maven, JUnit
-
-**Project Link**: [GitHub Repository](https://github.com/Ho0nn/JPA-Hibernate-Book-Practice)
-
----
-
-### 2. 🎓 **Student-Course Management System**
-A backend application developed using Java Spring MVC to manage academic data, featuring enrollment validation, data persistence, and basic security measures.
-
-**Technologies**: Java Spring MVC, JPA, Hibernate, MySQL
-
-**Project Link**: [GitHub Repository](https://github.com/Ho0nn/Spring-MVC-Task)
-
----
-
-### 3. 🛒 **E-commerce Management System**
-A Java-based e-commerce system that supports product registration, employee management, sales tracking, and invoice recording, all structured under the MVC architecture.
-
-**Technologies**: Java, JavaFX, MySQL, JDBC
-
-**Project Link**: [GitHub Repository](https://github.com/heennaa/JE-Commerce)
-
----
-
-## 🌟 Achievements
-- **ECPC Contestant (2023)**: Participated in the Egyptian Collegiate Programming Contest.
-- **Competitive Programming**: Solved 1000+ algorithmic problems on platforms like Codeforces, LeetCode, and Atcoder.
-- **ORANGE Training**: Participated in Orange training for software engineering fundamentals, including OOP, design patterns, and unit testing.
-
----
-
-## 📫 Get in Touch
-- LinkedIn: [linkedin.com/in/haneenmohamed](https://linkedin.com/in/haneenmohamed)
-- GitHub: [github.com/Ho0nn](https://github.com/Ho0nn)
-- Email: [haneen.m.elfeky@gmail.com](mailto:haneen.m.elfeky@gmail.com)
+- 🌟 [**GitHub**](https://github.com/) for hosting my projects.
+- 🌟 [**LinkedIn**](https://linkedin.com/) for networking with professionals.

@@ -1,9 +1,8 @@
 # Haneen Mohammed
 
-### 🚀 Software Engineer | Java Backend Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFDDC1&background=00000000&center=true&vCenter=true&width=500&height=50&lines=Java+Backend+Developer;Problem+Solver;Open+Source+Contributor;Always+Learning" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FFDDC1&background=00000000&center=true&vCenter=true&width=500&height=50&lines=Java+Backend+Developer;Problem+Solver;ٍSoftware+Engineer;Always+Learning" alt="Typing Animation" />
 </p>
 
 ---
@@ -39,8 +38,6 @@
 </p>
 
 ---
-
-### ⚡ **GitHub Stats:**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ho0nn&show_icons=true&theme=radical" alt="Haneen's GitHub stats" style="margin: 10px;"/>

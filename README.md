@@ -63,9 +63,3 @@
   </a>
 </p>
 
----
-
-### ✨ **Special Thanks:**
-
-- 🌟 [**GitHub**](https://github.com/) for hosting my projects.
-- 🌟 [**LinkedIn**](https://linkedin.com/) for networking with professionals.

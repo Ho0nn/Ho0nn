@@ -36,11 +36,3 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40" style="margin: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" style="margin: 10px;"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ho0nn&show_icons=true&theme=radical" alt="Haneen's GitHub stats" style="margin: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ho0nn&theme=dark" alt="GitHub Streak Stats" style="margin: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ho0nn&layout=compact&theme=radical" alt="Most Used Languages" style="margin: 10px;"/>
-</p>
